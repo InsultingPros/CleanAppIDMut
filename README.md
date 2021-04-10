@@ -1,6 +1,6 @@
 # Weapon DLC Unlocker
 
-![GitHub all releases](https://img.shields.io/github/downloads/Insulting-Pros/CleanAppIDMut/total)
+![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/CleanAppIDMut/total)
 
 Weapon DLC / achievement unlocker.
 
