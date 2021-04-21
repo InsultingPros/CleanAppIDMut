@@ -14,6 +14,8 @@ CleanAppIDMut.CleanAppIDMut
 
 At the moment of 2021.03.27 there are no dependencies.
 
+Use [KFCmdlet and it's batches](https://github.com/InsultingPros/KFCmdlet) for easy compilation.
+
 **EditPackages**
 
 ```cpp
